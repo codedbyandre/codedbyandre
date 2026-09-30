@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 248" width="1000" height="248" role="img" aria-label="André Wiesehoff. Laravel-Entwickler aus Ahaus, Nordrhein-Westfalen.">
+  <title>André Wiesehoff</title>
+  <style>
+    .bg { fill: #f5f3ee; }
+    .bar { fill: #b04a2c; }
+    .name { font-family: "Inter Tight", Inter, "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 500; font-size: 68px; letter-spacing: -1.6px; fill: #1a1d20; }
+    .period { fill: #b04a2c; }
+    .line { font-family: "Inter Tight", Inter, "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 400; font-size: 22px; fill: #494c52; }
+    .meta { font-family: "JetBrains Mono", "SF Mono", ui-monospace, Menlo, Consolas, monospace; font-size: 13px; letter-spacing: 2.2px; fill: #64676d; }
+    .rule { stroke: #ddd9cd; stroke-width: 1; }
+    .dot { fill: #4a6b5a; }
+    .ping { fill: #4a6b5a; transform-box: fill-box; transform-origin: center; animation: ping 2.2s ease-out infinite; }
+    @keyframes ping {
+      0% { transform: scale(1); opacity: .5; }
+      100% { transform: scale(2.8); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .ping { animation: none; opacity: 0; }
+    }
+  </style>
+  <rect class="bg" width="1000" height="248"/>
+  <rect class="bar" width="3" height="248"/>
+  <text class="meta" x="40" y="56">AW · LARAVEL · AHAUS</text>
+  <text class="name" x="36" y="132">André Wiesehoff<tspan class="period">.</tspan></text>
+  <text class="line" x="40" y="178">Das nennt man 2026 Anwendungsentwickler.</text>
+  <line class="rule" x1="40" y1="206" x2="280" y2="206"/>
+  <circle class="ping" cx="47" cy="226" r="3.5"/>
+  <circle class="dot" cx="47" cy="226" r="3.5"/>
+  <text class="meta" x="62" y="231">OFFEN</text>
+</svg>
