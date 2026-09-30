@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 112" width="1000" height="112" role="img" aria-label="André Wiesehoff, Laravel-Entwickler aus Ahaus, Nordrhein-Westfalen, Deutschland.">
+  <title>André Wiesehoff</title>
+  <style>
+    .bg { fill: #f5f3ee; }
+    .name { font-family: "Inter Tight", Inter, "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 500; font-size: 60px; letter-spacing: -1.4px; fill: #1a1d20; }
+    .period { fill: #b04a2c; }
+  </style>
+  <rect class="bg" width="1000" height="112"/>
+  <text class="name" x="0" y="78">André Wiesehoff<tspan class="period">.</tspan></text>
+</svg>
